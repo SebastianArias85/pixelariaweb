@@ -590,6 +590,12 @@
     display: inline-block;
   }
 
+  .pricing-btn-ind {    
+    top: 15px;
+    right: 0;
+    display: inline-block;
+  }
+
 
 
   /*---------------------------------------
